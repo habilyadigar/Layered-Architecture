@@ -1,0 +1,12 @@
+C:\Users\habil\source\repos\OOPSTOK\EtityLayer\bin\Debug\EtityLayer.dll
+C:\Users\habil\source\repos\OOPSTOK\EtityLayer\bin\Debug\EtityLayer.pdb
+C:\Users\habil\source\repos\OOPSTOK\EtityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\habil\source\repos\OOPSTOK\EtityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\habil\source\repos\OOPSTOK\EtityLayer\obj\Debug\EtityLayer.dll
+C:\Users\habil\source\repos\OOPSTOK\EtityLayer\obj\Debug\EtityLayer.pdb
+D:\VisualStudioProjeler\OOPSTOK\EtityLayer\bin\Debug\EtityLayer.dll
+D:\VisualStudioProjeler\OOPSTOK\EtityLayer\bin\Debug\EtityLayer.pdb
+D:\VisualStudioProjeler\OOPSTOK\EtityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+D:\VisualStudioProjeler\OOPSTOK\EtityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjeler\OOPSTOK\EtityLayer\obj\Debug\EtityLayer.dll
+D:\VisualStudioProjeler\OOPSTOK\EtityLayer\obj\Debug\EtityLayer.pdb

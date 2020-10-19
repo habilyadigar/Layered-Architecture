@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="OOPSTOK.Admin" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Satış Takip Otomasyonu</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+<nav class="navbar navbar-inverse navbar-static-top">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="MainPage.aspx">Satış Takip Otomasyonu</a>
+    </div> 
+
+
+    <ul class="nav navbar-nav">
+      <li><a href="Urunler.aspx">Ürünler</a></li>
+      <li><a href="Musteriler.aspx">Müşteriler</a></li>
+      <li><a href="Personel.aspx">Personeller</a></li>
+      <li><a href="Departman.aspx">Departmanlar</a></li>
+      <li><a href="Satislar.aspx">Satışlar</a></li>
+    </ul>
+      <ul class="nav navbar-nav navbar-right">
+      <li><a href="#"class="glyphicon glyphicon-user"> Kayıt Ol</a></li>
+      <li><a href="#" class="glyphicon glyphicon-log-in"> Giriş Yap</a></li>
+    </ul>       
+  </div>
+</nav>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        <%-- burası web form alanı --%>
+    </asp:ContentPlaceHolder>
+
+
+</body>
+</html>
+
